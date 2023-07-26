@@ -1,0 +1,8 @@
+D:\Mphasis\Live Session\Day13\ConAPpAutoImplementedProperty\ConAPpAutoImplementedProperty\bin\Debug\ConAPpAutoImplementedProperty.exe.config
+D:\Mphasis\Live Session\Day13\ConAPpAutoImplementedProperty\ConAPpAutoImplementedProperty\bin\Debug\ConAPpAutoImplementedProperty.exe
+D:\Mphasis\Live Session\Day13\ConAPpAutoImplementedProperty\ConAPpAutoImplementedProperty\bin\Debug\ConAPpAutoImplementedProperty.pdb
+D:\Mphasis\Live Session\Day13\ConAPpAutoImplementedProperty\ConAPpAutoImplementedProperty\obj\Debug\ConAPpAutoImplementedProperty.csproj.AssemblyReference.cache
+D:\Mphasis\Live Session\Day13\ConAPpAutoImplementedProperty\ConAPpAutoImplementedProperty\obj\Debug\ConAPpAutoImplementedProperty.csproj.SuggestedBindingRedirects.cache
+D:\Mphasis\Live Session\Day13\ConAPpAutoImplementedProperty\ConAPpAutoImplementedProperty\obj\Debug\ConAPpAutoImplementedProperty.csproj.CoreCompileInputs.cache
+D:\Mphasis\Live Session\Day13\ConAPpAutoImplementedProperty\ConAPpAutoImplementedProperty\obj\Debug\ConAPpAutoImplementedProperty.exe
+D:\Mphasis\Live Session\Day13\ConAPpAutoImplementedProperty\ConAPpAutoImplementedProperty\obj\Debug\ConAPpAutoImplementedProperty.pdb
