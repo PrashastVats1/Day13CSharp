@@ -9,7 +9,7 @@ namespace ConAppInheritancesAssignment16
     public class BankAccount
     {
         //Properties
-        private static int nextAccountNumber = 1000;
+        private static int nextAccountNumber = 1;
         private readonly int accountNumber;
         public int AccountNumber
         {
