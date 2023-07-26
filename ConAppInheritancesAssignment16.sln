@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33815.320
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ConAppInheritancesAssignment16", "ConAppInheritancesAssignment16\ConAppInheritancesAssignment16.csproj", "{F98E81A7-39E5-42A4-9FA4-5B9DDC4F7797}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F98E81A7-39E5-42A4-9FA4-5B9DDC4F7797}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F98E81A7-39E5-42A4-9FA4-5B9DDC4F7797}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F98E81A7-39E5-42A4-9FA4-5B9DDC4F7797}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F98E81A7-39E5-42A4-9FA4-5B9DDC4F7797}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {4F43946B-136E-49E0-B6F7-B433B270DCB5}
+	EndGlobalSection
+EndGlobal
